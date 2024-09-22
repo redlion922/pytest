@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","19605","test_search_to_checkout_flow","tests.e2e","Sun Sep 22 15:14:38 CST 2024","passed","Sun Sep 22 15:14:57 CST 2024","","test_e2e","",""
+"","21358","test_banner_ad_to_checkout_flow","tests.e2e","Sun Sep 22 15:14:15 CST 2024","passed","Sun Sep 22 15:14:36 CST 2024","","test_e2e","",""
+"","22414","test_category_to_checkout_flow","tests.e2e","Sun Sep 22 15:14:59 CST 2024","passed","Sun Sep 22 15:15:22 CST 2024","","test_e2e","",""
