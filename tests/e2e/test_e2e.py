@@ -63,7 +63,7 @@ def test_search_to_checkout_flow(driver):
     home_page.pop_ad_close()
     #點擊cookie同意
     home_page.cookie()
-    #點擊首頁廣告
+    #點擊搜尋
     home_page.search()
     #點擊第一個商品
     search_page.product()
@@ -93,7 +93,7 @@ def test_category_to_checkout_flow(driver):
     home_page.pop_ad_close()
     #點擊cookie同意
     home_page.cookie()
-    #點擊首頁廣告
+    #點擊分類
     home_page.category()
     #點擊第一個商品
     category_page.product()
